@@ -16,7 +16,6 @@ public class Pessoa {
         this.endereços = enderecos;
     }
 
-
     public void setTelefone(String Novotelefone) {
         this.telefone = Novotelefone;
     }
