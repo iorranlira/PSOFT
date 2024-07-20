@@ -1,3 +1,5 @@
+//@Repository
+
 import java.util.HashMap;
 
 public class PessoaRepository {
